@@ -2,5 +2,8 @@
 name = "xparser"
 version = "0.1.0"
 edition = "2024"
+description = "an explicit parser for command line interface"
+license = "MIT"
+repository = "https://github.com/bytebytebug/xparser"
 
 [dependencies]
